@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on backend services  using .Net Core  
   
 
-- 🌱 I’m currently learning Kubernetes  
+- 🌱 I’m currently learning AWS  
   
 
 - ❓ Ask me about .Net Core  
