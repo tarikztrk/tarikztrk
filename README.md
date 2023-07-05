@@ -6,13 +6,13 @@
 ### <div align="center">I'm Tarık, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on backend services  using .Net Core  
+- 🔭 I’m currently working on backend services using .Net Core and Java
   
 
 - 🌱 I’m currently learning AWS  
   
 
-- ❓ Ask me about .Net Core  
+- ❓ Ask me about .Net Core and Java 
   
 
 - ⚡ I’m currently learning everything  
